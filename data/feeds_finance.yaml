@@ -1,0 +1,16 @@
+sources:
+  - name: Reuters Business
+    type: rss
+    url: https://feeds.reuters.com/reuters/businessNews
+  - name: Financial Times
+    type: rss
+    url: https://www.ft.com/rss/home/asia
+  - name: CNBC Finance
+    type: rss
+    url: https://www.cnbc.com/id/10000664/device/rss/rss.html
+  - name: Yahoo Finance
+    type: rss
+    url: https://feeds.finance.yahoo.com/rss/2.0/headline?s=^GSPC
+  - name: Bloomberg Markets
+    type: rss
+    url: https://www.bloomberg.com/feed/podcast/etf-report.xml
